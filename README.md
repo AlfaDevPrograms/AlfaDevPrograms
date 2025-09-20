@@ -1,13 +1,50 @@
-<h1 align="center">Hi 👋, I'm AlfaDev</h1>
-<h3 align="center">I am a game and app developer from Russia.</h3>
+# Привет! Я — Альфред, Android разработчик из Абакана
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfadevprograms&label=Profile%20views&color=0e75b6&style=flat" alt="alfadevprograms" /> </p>
+Мне 20 лет, я из России, город Абакан. Опытный специалист с более чем 5 успешно выпущенными проектами в Google Play, RuStore и AppGallery.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfadevprograms&show_icons=true&locale=en&layout=compact" alt="alfadevprograms" /></p>
+## Навыки
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfadevprograms&show_icons=true&locale=en" alt="alfadevprograms" /></p>
+| Язык программирования        | Базы данных                        | Среда разработки              | Типы проектов                                      |
+|:----------------------------:|:---------------------------------:|:-----------------------------:|:-------------------------------------------------:|
+| Kotlin, Java, C#, C++, Python | MS SQL, MySQL, PostgreSQL, SQLite | Android Studio, Unity, WPF    | Мобильные приложения, игры, клиентские приложения, API |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfadevprograms&" alt="alfadevprograms" /></p>
+---
+
+## Опыт разработки проектов
+
+| Платформа       | Количество проектов | Основные технологии                 |
+|:---------------:|:-------------------:|:---------------------------------:|
+| Google Play     | Более 5             | Kotlin, Java, Android Studio       |
+| RuStore         | Более 5             | Kotlin, Java, Android Studio       |
+| AppGallery      | Более 5             | Kotlin, Java, Android Studio       |
+| Unity           | Множество проектов  | C#                               |
+
+---
+
+## Детальный обзор навыков
+
+| Область               | Описание                                                    |
+|:---------------------:|:-----------------------------------------------------------:|
+| Мобильная разработка  | Создание Android-приложений на Kotlin и Java в Android Studio |
+| Игры                  | Разработка игр и интерактивных приложений в Unity (C#)       |
+| Клиентские приложения | Разработка приложений с UI на C# (WPF)                        |
+| API                   | Разработка серверной части и API на C#                        |
+| Работа с БД           | Опыт работы с MS SQL, MySQL, PostgreSQL, SQLite             |
+
+---
+
+## Контакты и сотрудничество
+
+Буду рад обсудить новые проекты и интересные задачи. Свяжитесь со мной через GitHub или другие доступные контакты.
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+
+---
+
+Спасибо за внимание к моему профилю!
