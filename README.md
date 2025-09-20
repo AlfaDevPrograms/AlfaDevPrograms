@@ -41,9 +41,9 @@
 
 ## Мои приложения 📲
 
-- RuStore: [https://www.rustore.ru/catalog/developer/a7948657](https://www.rustore.ru/catalog/developer/a7948657)  
-- Google Play: [https://play.google.com/store/apps/developer?id=AlfaDeveloper&hl=ru](https://play.google.com/store/apps/developer?id=AlfaDeveloper&hl=ru)  
-- AppGallery: [https://appgallery.huawei.ru/tab/appdetailCommon%7CC113202103%7Cautomore%7Cdoublecolumncardwithstar%7C903547](https://appgallery.huawei.ru/tab/appdetailCommon%7CC113202103%7Cautomore%7Cdoublecolumncardwithstar%7C903547)  
+- [RuStore](https://www.rustore.ru/catalog/developer/a7948657)  
+- [Google Play](https://play.google.com/store/apps/developer?id=AlfaDeveloper&hl=ru)  
+- [AppGallery](https://appgallery.huawei.ru/tab/appdetailCommon%7CC113202103%7Cautomore%7Cdoublecolumncardwithstar%7C903547)  
 
 ---
 
