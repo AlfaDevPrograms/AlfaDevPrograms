@@ -59,12 +59,11 @@
 
 ## Most Used Languages 🧑‍💻
 
-![GitHub followers](https://img.shields.io/github/followers/AlfaDevPrograms?style=social)
-![GitHub stars](https://img.shields.io/github/stars/AlfaDevPrograms?style=social)
+![Top Languages](https://github-readme-stats-5s7sfvb2i-alfa-dev-s-projects.vercel.app/api/top-langs/?username=AlfaDevPrograms&layout=compact&theme=dark)
 
 ### GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfaDevPrograms&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-5s7sfvb2i-alfa-dev-s-projects.vercel.app/api?username=AlfaDevPrograms&show_icons=true&theme=dark)
 
 ---
 
