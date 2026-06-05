@@ -59,7 +59,7 @@
 
 ## Most Used Languages 🧑‍💻
 
-![Top Languages](https://ggithub-readme-stats-git-master-alfa-dev-s-projects.vercel.app/api/top-langs/?username=AlfaDevPrograms&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaDevPrograms&layout=compact&theme=dark)
 
 ### GitHub Stats 📊
 
